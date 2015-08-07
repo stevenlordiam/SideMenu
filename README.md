@@ -1,7 +1,7 @@
 #SideMenu
 
 
-A fork of RESideMenu
+A fork of RESideMenu, add more view controller and remove some unnecessary widgets
 
 ##Requirements
 * Xcode 6 or higher
