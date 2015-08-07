@@ -1,0 +1,352 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A907B7A61B6EEF470077BE67 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A907B7A51B6EEF470077BE67 /* AboutViewController.m */; };
+		A907B7A91B6EF2710077BE67 /* FeedbackViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A907B7A81B6EF2710077BE67 /* FeedbackViewController.m */; };
+		A90C509C1B6D5F2500BA9E25 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C507F1B6D5F2500BA9E25 /* AppDelegate.m */; };
+		A90C509D1B6D5F2500BA9E25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A90C50801B6D5F2500BA9E25 /* Main.storyboard */; };
+		A90C509E1B6D5F2500BA9E25 /* ProblemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50831B6D5F2500BA9E25 /* ProblemViewController.m */; };
+		A90C509F1B6D5F2500BA9E25 /* LeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50851B6D5F2500BA9E25 /* LeftMenuViewController.m */; };
+		A90C50A01B6D5F2500BA9E25 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50871B6D5F2500BA9E25 /* RootViewController.m */; };
+		A90C50A11B6D5F2500BA9E25 /* StarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50891B6D5F2500BA9E25 /* StarViewController.m */; };
+		A90C50A21B6D5F2500BA9E25 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A90C508A1B6D5F2500BA9E25 /* InfoPlist.strings */; };
+		A90C50A41B6D5F2500BA9E25 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A90C508E1B6D5F2500BA9E25 /* Images.xcassets */; };
+		A90C50A51B6D5F2500BA9E25 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A90C508F1B6D5F2500BA9E25 /* Info.plist */; };
+		A90C50A61B6D5F2500BA9E25 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A90C50901B6D5F2500BA9E25 /* LaunchScreen.xib */; };
+		A90C50A71B6D5F2500BA9E25 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50911B6D5F2500BA9E25 /* main.m */; };
+		A90C50A91B6D5F2500BA9E25 /* RECommonFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50971B6D5F2500BA9E25 /* RECommonFunctions.m */; };
+		A90C50AA1B6D5F2500BA9E25 /* RESideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C50991B6D5F2500BA9E25 /* RESideMenu.m */; };
+		A90C50AB1B6D5F2500BA9E25 /* UIViewController+RESideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = A90C509B1B6D5F2500BA9E25 /* UIViewController+RESideMenu.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A907B7A41B6EEF470077BE67 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		A907B7A51B6EEF470077BE67 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		A907B7A71B6EF2710077BE67 /* FeedbackViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedbackViewController.h; sourceTree = "<group>"; };
+		A907B7A81B6EF2710077BE67 /* FeedbackViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedbackViewController.m; sourceTree = "<group>"; };
+		A90C507E1B6D5F2500BA9E25 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A90C507F1B6D5F2500BA9E25 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A90C50811B6D5F2500BA9E25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A90C50821B6D5F2500BA9E25 /* ProblemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProblemViewController.h; sourceTree = "<group>"; };
+		A90C50831B6D5F2500BA9E25 /* ProblemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProblemViewController.m; sourceTree = "<group>"; };
+		A90C50841B6D5F2500BA9E25 /* LeftMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftMenuViewController.h; sourceTree = "<group>"; };
+		A90C50851B6D5F2500BA9E25 /* LeftMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftMenuViewController.m; sourceTree = "<group>"; };
+		A90C50861B6D5F2500BA9E25 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		A90C50871B6D5F2500BA9E25 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		A90C50881B6D5F2500BA9E25 /* StarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StarViewController.h; sourceTree = "<group>"; };
+		A90C50891B6D5F2500BA9E25 /* StarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StarViewController.m; sourceTree = "<group>"; };
+		A90C508B1B6D5F2500BA9E25 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A90C508E1B6D5F2500BA9E25 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A90C508F1B6D5F2500BA9E25 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A90C50901B6D5F2500BA9E25 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		A90C50911B6D5F2500BA9E25 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A90C50921B6D5F2500BA9E25 /* RESideMenuStoryboardsExample-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "RESideMenuStoryboardsExample-Prefix.pch"; sourceTree = "<group>"; };
+		A90C50961B6D5F2500BA9E25 /* RECommonFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RECommonFunctions.h; sourceTree = "<group>"; };
+		A90C50971B6D5F2500BA9E25 /* RECommonFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RECommonFunctions.m; sourceTree = "<group>"; };
+		A90C50981B6D5F2500BA9E25 /* RESideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RESideMenu.h; sourceTree = "<group>"; };
+		A90C50991B6D5F2500BA9E25 /* RESideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RESideMenu.m; sourceTree = "<group>"; };
+		A90C509A1B6D5F2500BA9E25 /* UIViewController+RESideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+RESideMenu.h"; sourceTree = "<group>"; };
+		A90C509B1B6D5F2500BA9E25 /* UIViewController+RESideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+RESideMenu.m"; sourceTree = "<group>"; };
+		A90C50AE1B6D616D00BA9E25 /* Leet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A92AD2391B6C3FB400450B65 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A90C507D1B6D5F2500BA9E25 /* Leet */ = {
+			isa = PBXGroup;
+			children = (
+				A90C507E1B6D5F2500BA9E25 /* AppDelegate.h */,
+				A90C507F1B6D5F2500BA9E25 /* AppDelegate.m */,
+				A90C50821B6D5F2500BA9E25 /* ProblemViewController.h */,
+				A907B7A71B6EF2710077BE67 /* FeedbackViewController.h */,
+				A907B7A81B6EF2710077BE67 /* FeedbackViewController.m */,
+				A90C50831B6D5F2500BA9E25 /* ProblemViewController.m */,
+				A907B7A41B6EEF470077BE67 /* AboutViewController.h */,
+				A907B7A51B6EEF470077BE67 /* AboutViewController.m */,
+				A90C50841B6D5F2500BA9E25 /* LeftMenuViewController.h */,
+				A90C50851B6D5F2500BA9E25 /* LeftMenuViewController.m */,
+				A90C50861B6D5F2500BA9E25 /* RootViewController.h */,
+				A90C50871B6D5F2500BA9E25 /* RootViewController.m */,
+				A90C50881B6D5F2500BA9E25 /* StarViewController.h */,
+				A90C50891B6D5F2500BA9E25 /* StarViewController.m */,
+				A90C508A1B6D5F2500BA9E25 /* InfoPlist.strings */,
+				A90C508E1B6D5F2500BA9E25 /* Images.xcassets */,
+				A90C508F1B6D5F2500BA9E25 /* Info.plist */,
+				A90C50901B6D5F2500BA9E25 /* LaunchScreen.xib */,
+				A90C50911B6D5F2500BA9E25 /* main.m */,
+				A90C50921B6D5F2500BA9E25 /* RESideMenuStoryboardsExample-Prefix.pch */,
+				A90C50801B6D5F2500BA9E25 /* Main.storyboard */,
+			);
+			path = Leet;
+			sourceTree = "<group>";
+		};
+		A90C50931B6D5F2500BA9E25 /* RESideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				A90C50961B6D5F2500BA9E25 /* RECommonFunctions.h */,
+				A90C50971B6D5F2500BA9E25 /* RECommonFunctions.m */,
+				A90C50981B6D5F2500BA9E25 /* RESideMenu.h */,
+				A90C50991B6D5F2500BA9E25 /* RESideMenu.m */,
+				A90C509A1B6D5F2500BA9E25 /* UIViewController+RESideMenu.h */,
+				A90C509B1B6D5F2500BA9E25 /* UIViewController+RESideMenu.m */,
+			);
+			path = RESideMenu;
+			sourceTree = "<group>";
+		};
+		A92AD2331B6C3FB400450B65 = {
+			isa = PBXGroup;
+			children = (
+				A90C507D1B6D5F2500BA9E25 /* Leet */,
+				A90C50931B6D5F2500BA9E25 /* RESideMenu */,
+				A90C50AE1B6D616D00BA9E25 /* Leet.app */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A92AD23B1B6C3FB400450B65 /* Leet */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A92AD25F1B6C3FB400450B65 /* Build configuration list for PBXNativeTarget "Leet" */;
+			buildPhases = (
+				A92AD2381B6C3FB400450B65 /* Sources */,
+				A92AD2391B6C3FB400450B65 /* Frameworks */,
+				A92AD23A1B6C3FB400450B65 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Leet;
+			productName = Leet;
+			productReference = A90C50AE1B6D616D00BA9E25 /* Leet.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A92AD2341B6C3FB400450B65 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = StevenLiu;
+				TargetAttributes = {
+					A92AD23B1B6C3FB400450B65 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = A92AD2371B6C3FB400450B65 /* Build configuration list for PBXProject "Leet" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A92AD2331B6C3FB400450B65;
+			productRefGroup = A92AD2331B6C3FB400450B65;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A92AD23B1B6C3FB400450B65 /* Leet */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A92AD23A1B6C3FB400450B65 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A90C50A61B6D5F2500BA9E25 /* LaunchScreen.xib in Resources */,
+				A90C50A51B6D5F2500BA9E25 /* Info.plist in Resources */,
+				A90C50A41B6D5F2500BA9E25 /* Images.xcassets in Resources */,
+				A90C509D1B6D5F2500BA9E25 /* Main.storyboard in Resources */,
+				A90C50A21B6D5F2500BA9E25 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A92AD2381B6C3FB400450B65 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A90C50A91B6D5F2500BA9E25 /* RECommonFunctions.m in Sources */,
+				A90C509F1B6D5F2500BA9E25 /* LeftMenuViewController.m in Sources */,
+				A90C509E1B6D5F2500BA9E25 /* ProblemViewController.m in Sources */,
+				A90C50A11B6D5F2500BA9E25 /* StarViewController.m in Sources */,
+				A90C509C1B6D5F2500BA9E25 /* AppDelegate.m in Sources */,
+				A907B7A61B6EEF470077BE67 /* AboutViewController.m in Sources */,
+				A90C50A01B6D5F2500BA9E25 /* RootViewController.m in Sources */,
+				A90C50A71B6D5F2500BA9E25 /* main.m in Sources */,
+				A90C50AA1B6D5F2500BA9E25 /* RESideMenu.m in Sources */,
+				A90C50AB1B6D5F2500BA9E25 /* UIViewController+RESideMenu.m in Sources */,
+				A907B7A91B6EF2710077BE67 /* FeedbackViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A90C50801B6D5F2500BA9E25 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A90C50811B6D5F2500BA9E25 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A90C508A1B6D5F2500BA9E25 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A90C508B1B6D5F2500BA9E25 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A92AD25D1B6C3FB400450B65 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A92AD25E1B6C3FB400450B65 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A92AD2601B6C3FB400450B65 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Leet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A92AD2611B6C3FB400450B65 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Leet/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A92AD2371B6C3FB400450B65 /* Build configuration list for PBXProject "Leet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A92AD25D1B6C3FB400450B65 /* Debug */,
+				A92AD25E1B6C3FB400450B65 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A92AD25F1B6C3FB400450B65 /* Build configuration list for PBXNativeTarget "Leet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A92AD2601B6C3FB400450B65 /* Debug */,
+				A92AD2611B6C3FB400450B65 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A92AD2341B6C3FB400450B65 /* Project object */;
+}
