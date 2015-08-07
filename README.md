@@ -1,8 +1,7 @@
-#Leet
+#SideMenu
 
 
-An iOS app for leetcode OJ
-
+A fork of RESideMenu
 
 ##Requirements
 * Xcode 6 or higher
@@ -11,7 +10,7 @@ An iOS app for leetcode OJ
 
 ## Demo
 
-![Demo](https://github.com/stevenlordiam/Leet/blob/master/SketchSource/demo.gif)
+![Demo](https://github.com/stevenlordiam/SideMenu/blob/master/demo.gif)
 
 
 
@@ -25,8 +24,8 @@ An iOS app for leetcode OJ
 
 ## Todo
 
-* Leetcode account login
-* pull to refresh problems
+* account login
+* pull to refresh 
 
 
 

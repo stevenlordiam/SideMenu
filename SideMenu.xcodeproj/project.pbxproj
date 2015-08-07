@@ -53,7 +53,7 @@
 		A90C50991B6D5F2500BA9E25 /* RESideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RESideMenu.m; sourceTree = "<group>"; };
 		A90C509A1B6D5F2500BA9E25 /* UIViewController+RESideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+RESideMenu.h"; sourceTree = "<group>"; };
 		A90C509B1B6D5F2500BA9E25 /* UIViewController+RESideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+RESideMenu.m"; sourceTree = "<group>"; };
-		A90C50AE1B6D616D00BA9E25 /* Leet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A90C50AE1B6D616D00BA9E25 /* SideMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SideMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,16 +113,16 @@
 			children = (
 				A90C507D1B6D5F2500BA9E25 /* Leet */,
 				A90C50931B6D5F2500BA9E25 /* RESideMenu */,
-				A90C50AE1B6D616D00BA9E25 /* Leet.app */,
+				A90C50AE1B6D616D00BA9E25 /* SideMenu.app */,
 			);
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A92AD23B1B6C3FB400450B65 /* Leet */ = {
+		A92AD23B1B6C3FB400450B65 /* SideMenu */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A92AD25F1B6C3FB400450B65 /* Build configuration list for PBXNativeTarget "Leet" */;
+			buildConfigurationList = A92AD25F1B6C3FB400450B65 /* Build configuration list for PBXNativeTarget "SideMenu" */;
 			buildPhases = (
 				A92AD2381B6C3FB400450B65 /* Sources */,
 				A92AD2391B6C3FB400450B65 /* Frameworks */,
@@ -132,9 +132,9 @@
 			);
 			dependencies = (
 			);
-			name = Leet;
+			name = SideMenu;
 			productName = Leet;
-			productReference = A90C50AE1B6D616D00BA9E25 /* Leet.app */;
+			productReference = A90C50AE1B6D616D00BA9E25 /* SideMenu.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -151,7 +151,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A92AD2371B6C3FB400450B65 /* Build configuration list for PBXProject "Leet" */;
+			buildConfigurationList = A92AD2371B6C3FB400450B65 /* Build configuration list for PBXProject "SideMenu" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -164,7 +164,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A92AD23B1B6C3FB400450B65 /* Leet */,
+				A92AD23B1B6C3FB400450B65 /* SideMenu */,
 			);
 		};
 /* End PBXProject section */
@@ -311,7 +311,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Leet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SideMenu;
 			};
 			name = Debug;
 		};
@@ -321,14 +321,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Leet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SideMenu;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A92AD2371B6C3FB400450B65 /* Build configuration list for PBXProject "Leet" */ = {
+		A92AD2371B6C3FB400450B65 /* Build configuration list for PBXProject "SideMenu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A92AD25D1B6C3FB400450B65 /* Debug */,
@@ -337,7 +337,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A92AD25F1B6C3FB400450B65 /* Build configuration list for PBXNativeTarget "Leet" */ = {
+		A92AD25F1B6C3FB400450B65 /* Build configuration list for PBXNativeTarget "SideMenu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A92AD2601B6C3FB400450B65 /* Debug */,
